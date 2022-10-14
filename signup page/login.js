@@ -10,8 +10,9 @@ function call(){
    if(element===undefined){
       document.getElementById("ull").style.display="contents";
       document.getElementById("adjust").style.display="contents";
-      document.getElementById("logp").style.display="contents";
+     
       document.getElementById("logimage").style.display="contents";
+      
    }else{
     alert("succesfull");
    }
